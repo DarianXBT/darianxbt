@@ -48,7 +48,7 @@ class Attributes(Tekky):
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,golang,vscode,androidstudio,c,cs,cpp,js,css,html" />
+    <img src="https://skillicons.dev/icons?i=java,python,js,css,html" />
   </a>
 </p>
 
