@@ -37,4 +37,4 @@ class Attributes(dqryqn):
 		
 		return langs, specialities, environnement
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,js,python)](https://skillicons.dev)
