@@ -1,12 +1,12 @@
+IMAGINE READING THIS
 
 
 
-
-class Attributes(Darian):
+class Attributes(dqryqn):
 	@staticmethod
 	def channels() -> tuple:
             discord  = "/"
-	    telegram = "t.me/onlpx"
+	    telegram = "/"
 
             return discord, telegram
 
