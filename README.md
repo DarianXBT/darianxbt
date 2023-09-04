@@ -4,7 +4,7 @@
 </p> -->
 
 <p href="https://discord.gg/onlp" align="center">
-    <img alt="" src=https://lanyard.cnrad.dev/api/1115378147630788618/>
+    <img alt="" src=https://lanyard.cnrad.dev/api/715833900105990164>
 </p>
 
 ```python
