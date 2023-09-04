@@ -36,3 +36,5 @@ class Attributes(dqryqn):
 		environnement = ['vscode']
 		
 		return langs, specialities, environnement
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
