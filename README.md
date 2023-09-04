@@ -53,5 +53,5 @@ class Attributes(Darian):
 </p>
 
 <p href="https://discord.gg/onlp" align="center">
-    <img alt="" src="https://github-readme-stats.vercel.app/api?username=xtekky&theme=tokyonight&show_icons=true">
+    <img alt="" src="https://github-readme-stats.vercel.app/api?username=dqryqn&theme=tokyonight&show_icons=true">
 </p>
