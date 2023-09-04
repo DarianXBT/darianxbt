@@ -8,35 +8,35 @@
 </p>
 
 ```python
-class Attributes(Tekky):
+class Attributes(Darian):
 	@staticmethod
 	def channels() -> tuple:
-            discord  = "discord.gg/onlpx"
-	    telegram = "t.me/onlpx"
+            discord  = "coming soon"
+	    telegram = "coming soon"
 
             return discord, telegram
 
 	@staticmethod
 	def contact() -> tuple:
-	    discord  = "tekky#6177"
-	    telegram = "t.me/xtekky"
-	    email    = "github@g4f.ai"
+	    discord  = "dqryqn"
+	    telegram = "coming soon"
+	    email    = "atm private"
 	    
 	    return discord, telegram, proton
 	
 	@staticmethod
 	def life() -> tuple:
-		langs         = ['French', 'German', 'Spanish', 'English']
-		age           = 17
+		langs         = ['German', 'English', 'Spanish', 'Yugoslavian']
+		age           = 16
 		
 		return langs, age
 	
 	@staticmethod
 	def coding() -> tuple:
 		langs = {
-			'expert':   ['python'],
-			'intermediate': ['go', 'js'],
-			'learning': ['c', 'c++', 'c#', 'asm', 'java']
+			'expert':   ['java'],
+			'intermediate': ['python', 'js'],
+			'learning': ['c', 'c++', 'c#']
 		}
 		specialities  = ['web/app reverse engineering', 'fullstack']
 		environnement = ['vscode']
