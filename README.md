@@ -1,3 +1,7 @@
+
+
+
+
 class Attributes(Darian):
 	@staticmethod
 	def channels() -> tuple:
