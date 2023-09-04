@@ -1,16 +1,34 @@
-### Hi there 👋
+class Attributes(Darian):
+	@staticmethod
+	def channels() -> tuple:
+            discord  = "/"
+	    telegram = "t.me/onlpx"
 
-<!--
-**dqryqn/dqryqn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+            return discord, telegram
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+	@staticmethod
+	def contact() -> tuple:
+	    discord  = "dqryqn"
+	    telegram = "/"
+	    email    = "/"
+	    
+	    return discord, telegram, proton
+	
+	@staticmethod
+	def life() -> tuple:
+		langs         = ['German', 'English', 'Spanish', 'Yugoslavian']
+		age           = 16
+		
+		return langs, age
+	
+	@staticmethod
+	def coding() -> tuple:
+		langs = {
+			'expert':   ['java'],
+			'intermediate': ['python', 'js'],
+			'learning': ['c', 'c++', 'c#']
+		}
+		specialities  = ['web/app reverse engineering', 'fullstack']
+		environnement = ['vscode']
+		
+		return langs, specialities, environnement
