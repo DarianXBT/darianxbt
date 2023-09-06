@@ -21,6 +21,7 @@ class Attributes(Darian):
 	    discord  = "dqryqn"
 	    telegram = "coming soon"
 	    email    = "atm private"
+	    website = "sidoroski.de"
 	    
 	    return discord, telegram, proton
 	
