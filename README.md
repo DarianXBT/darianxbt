@@ -18,10 +18,10 @@ class Attributes(Darian):
 
 	@staticmethod
 	def contact() -> tuple:
-	    discord  = "dqryqn"
-	    telegram = "coming soon"
+	    discord  = "darianxbt"
+	    telegram = "darianxbt"
 	    email    = "atm private"
-	    website = "sidoroski.de (update soon, but still usable)"
+	    website = "private"
 	    
 	    return discord, telegram, proton
 	
