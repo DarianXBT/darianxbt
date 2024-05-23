@@ -23,12 +23,12 @@ class Attributes(Darian):
 	    email    = "atm private"
 	    website = "private"
 	    
-	    return discord, telegram, proton
+	    return discord, telegram
 	
 	@staticmethod
 	def life() -> tuple:
 		langs         = ['German', 'English', 'Spanish', 'Yugoslavian']
-		age           = 16
+		age           = 17
 		
 		return langs, age
 	
